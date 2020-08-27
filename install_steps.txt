@@ -1,0 +1,119 @@
+Install ethermon server:
+CentOS Linux release 7.7.1908 (Core)
+python 2.7.5
+Django Version:	1.11
+MySQL Community Server - GPL -  8.0.19 
+
+
+1. install os dependences
+yum install epel-release
+yum install python-pip
+pip install --upgrade pip
+pip install setuptools -U
+yum install vim
+yum install mysql
+yum -y install gcc gcc-c++ kernel-devel
+yum -y install python-devel libxslt-devel libffi-devel openssl-devel
+yum -y install dos2unix
+yum -y install MySQL-python
+yum install unzip
+yum install nginx 
+pip install django
+pip install uwsgi
+pip install gevent 
+yum install pandoc
+pip install wheel
+pip install gunicorn 
+
+
+
+2. install mysql server source (https://www.mysqltutorial.org/install-mysql-centos/)
+at the moment version mysql 8.x insalled using this 
+  rpm -Uvh https://repo.mysql.com/mysql80-community-release-el7-3.noarch.rpm
+  sed -i 's/enabled=1/enabled=0/' /etc/yum.repos.d/mysql-community.repo
+  yum --enablerepo=mysql80-community install mysql-community-server
+  service mysqld start
+  grep "A temporary password" /var/log/mysqld.log
+  mysql_secure_installation
+  service mysqld restart
+  chkconfig mysqld on
+
+
+
+3. prepare directory
+mkdir /data
+mkdir /data/backup
+mkdir /data/release
+mkdir /data/source
+
+
+
+
+
+
+
+4 (a). can be done in two ways --recommeneded
+
+ copy the whole source code as etheremon_api.zip - just download the zip from github and rename it and zip it. name should be etheremon_api.zip
+ 
+ should have a subdirectory 'etheremon_api' inside the zip with all files in it.
+ 
+ And put it in /data/source on server directory and deploy it  as point 5 ..it will create a whole new directory structure there..which has all service,api.. 
+ 
+ (or) - do this way 
+
+
+4(b).
+ open repo etheremon_backend
+  gen etheremon_api.zip 
+  python pack_archive.py
+   And put it in /data/source on server directory and deploy it  as point 5
+
+  
+
+
+
+5. 
+transfer the file deploy_etheremon_api.sh to source directory
+then 
+ > cd /data/source
+ > chmod 0555 deploy_etheremon_api.sh
+ > chmod 0555 etheremon_api.zip
+ > ./deploy_etheremon_api.sh
+it will install all dependencies of the project and start the server fastcgi
+
+errors: when installing web3
+# pip install web3==3.16.5 --ignore-installed requests
+
+error nginx upstream permission
+# setsebool -P httpd_can_network_connect 1
+
+
+6. install geth, https://gist.github.com/bradlucas/f6435728daed8aa64d5b39f19351ecdf
+# https://github.com/ethereum/go-ethereum
+
+sudo yum -y update
+sudo yum -y install golang
+sudo yum -y install gmp-devel
+sudo yum -y install git
+git clone https://github.com/ethereum/go-ethereum
+cd go-ethereum/
+make geth
+
+# init local network
+cd /data/download/go-ethereum/build/bin
+
+./geth --datadir="/data/geth_data/mychain" --rpc --rpccorsdomain “*” -verbosity 6 --ipcdisable  --port 30303 --nodiscover --rpcapi db,eth,net,web3,personal --allow-insecure-unlock > /data/geth_data/mychain/00.log &
+
+
+
+=====
+Debug info 
+logs can be found here
+cd /data/release/etheremon_api/log/etheremon_service
+
+===
+    
+  cd /data/release/etheremon_api/current/deploy
+  ./restart_all.sh
+  

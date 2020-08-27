@@ -1,0 +1,7 @@
+. "/data/release/etheremon_api/deploy/config.sh"
+MODULE="etheremon_service"
+PROJECT="$PROJECT"
+PROCESS_NAME="etheremon_serviced.py"
+SERVER_PATH="$CURRENT_DIR/$MODULE/etheremon_serviced.py"
+DAEMON_LOG_FILE="$CURRENT_DIR/$MODULE/log/daemon.log"
+FCGI_PID_FILE="$FCGI_DIR/$MODULE.pid"

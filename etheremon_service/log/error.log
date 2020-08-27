@@ -1,0 +1,104 @@
+2020-08-13 19:45:29.805|ERROR|9161:140149745313600|logger.py:75|logger._append_exc|update_ema_monster_fail|monster_id=29
+Traceback (most recent call last):
+  File "crawl_monster.py", line 86, in <module>
+    crawl_monster()
+  File "crawl_monster.py", line 48, in crawl_monster
+    logging.exception("update_ema_monster_fail|monster_id=%s", monster_id)
+  File "crawl_monster.py", line 42, in crawl_monster
+    result, add_flag, update_flag = _sync_monster_id(data_contract, monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/etheremon_service/crawl/../../etheremon_service/contract/helper.py", line 27, in _sync_monster_id
+    (monster_return_id, class_id, owner_address, exp, create_index, last_claim_index, monster_create_time) = data_contract.call().getMonsterObj(monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/contract.py", line 837, in call_contract_function
+    return_data = contract.web3.eth.call(call_transaction)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/eth.py", line 253, in call
+    [transaction, block_identifier],
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 93, in request_blocking
+    response = self._make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 76, in _make_request
+    return request_func(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/attrdict.py", line 20, in middleware
+    response = make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/formatting.py", line 23, in middleware
+    response = make_request(method, formatted_params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/providers/rpc.py", line 52, in make_request
+    **self.get_request_kwargs()
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/utils/compat/compat_requests.py", line 21, in make_post_request
+    response = session.post(endpoint_uri, data=data, *args, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 578, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 417, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1148, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib/python2.7/ssl.py", line 754, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 641, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+
+2020-08-13 19:47:57.493|ERROR|10547:140570799195968|logger.py:75|logger._append_exc|update_ema_monster_fail|monster_id=98
+Traceback (most recent call last):
+  File "crawl_monster.py", line 85, in <module>
+    crawl_monster()
+  File "crawl_monster.py", line 48, in crawl_monster
+    logging.exception("update_ema_monster_fail|monster_id=%s", monster_id)
+  File "crawl_monster.py", line 42, in crawl_monster
+    result, add_flag, update_flag = _sync_monster_id(data_contract, monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/etheremon_service/crawl/../../etheremon_service/contract/helper.py", line 27, in _sync_monster_id
+    (monster_return_id, class_id, owner_address, exp, create_index, last_claim_index, monster_create_time) = data_contract.call().getMonsterObj(monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/contract.py", line 837, in call_contract_function
+    return_data = contract.web3.eth.call(call_transaction)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/eth.py", line 253, in call
+    [transaction, block_identifier],
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 93, in request_blocking
+    response = self._make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 76, in _make_request
+    return request_func(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/attrdict.py", line 20, in middleware
+    response = make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/formatting.py", line 23, in middleware
+    response = make_request(method, formatted_params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/providers/rpc.py", line 52, in make_request
+    **self.get_request_kwargs()
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/utils/compat/compat_requests.py", line 21, in make_post_request
+    response = session.post(endpoint_uri, data=data, *args, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 578, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 417, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1148, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib/python2.7/ssl.py", line 754, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 641, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+

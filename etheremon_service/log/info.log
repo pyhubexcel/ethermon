@@ -1,0 +1,229 @@
+2020-08-13 19:45:00.809|INFO|sync_monster_id|contract_data|monster_id=1,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:45:01.762|INFO|sync_monster_id|contract_data|monster_id=2,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:45:02.702|INFO|sync_monster_id|contract_data|monster_id=3,owner_address=0xA694B9151ddaA05eFb50A635B585256aa382A0cf,exp=0xA694B9151ddaA05eFb50A635B585256aa382A0cf
+2020-08-13 19:45:03.978|INFO|sync_monster_id|contract_data|monster_id=4,owner_address=0x61BD8452ef478AF93c323e8fd135E6d73c19529A,exp=0x61BD8452ef478AF93c323e8fd135E6d73c19529A
+2020-08-13 19:45:05.008|INFO|sync_monster_id|contract_data|monster_id=5,owner_address=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1,exp=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1
+2020-08-13 19:45:06.224|INFO|sync_monster_id|contract_data|monster_id=6,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:45:07.572|INFO|sync_monster_id|contract_data|monster_id=7,owner_address=0x8CDd469e53e01d49b93A9DB22F0051c4FEdCCAE3,exp=0x8CDd469e53e01d49b93A9DB22F0051c4FEdCCAE3
+2020-08-13 19:45:08.526|INFO|sync_monster_id|contract_data|monster_id=8,owner_address=0xC065A07F9FE675D3a4B452A791e187bb4CEfAa43,exp=0xC065A07F9FE675D3a4B452A791e187bb4CEfAa43
+2020-08-13 19:45:09.520|INFO|sync_monster_id|contract_data|monster_id=9,owner_address=0xAb01D4895b802c38Eee7553bb52A4160CFca2878,exp=0xAb01D4895b802c38Eee7553bb52A4160CFca2878
+2020-08-13 19:45:10.481|INFO|sync_monster_id|contract_data|monster_id=10,owner_address=0x5baF94dC1E377f8A43c483a39918e86DdcC9A494,exp=0x5baF94dC1E377f8A43c483a39918e86DdcC9A494
+2020-08-13 19:45:11.576|INFO|sync_monster_id|contract_data|monster_id=11,owner_address=0xdf5BeEbf9B3B1817a4f3EA68809438b510120CF7,exp=0xdf5BeEbf9B3B1817a4f3EA68809438b510120CF7
+2020-08-13 19:45:12.560|INFO|sync_monster_id|contract_data|monster_id=12,owner_address=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268,exp=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268
+2020-08-13 19:45:13.703|INFO|sync_monster_id|contract_data|monster_id=13,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:45:14.627|INFO|sync_monster_id|contract_data|monster_id=14,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:45:15.624|INFO|sync_monster_id|contract_data|monster_id=15,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:45:16.526|INFO|sync_monster_id|contract_data|monster_id=16,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:45:17.425|INFO|sync_monster_id|contract_data|monster_id=17,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:45:18.705|INFO|sync_monster_id|contract_data|monster_id=18,owner_address=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3,exp=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3
+2020-08-13 19:45:19.824|INFO|sync_monster_id|contract_data|monster_id=19,owner_address=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3,exp=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3
+2020-08-13 19:45:20.702|INFO|sync_monster_id|contract_data|monster_id=20,owner_address=0xd3387cE9aD74D0cAA7a6cE284b45c3a8b8098B9B,exp=0xd3387cE9aD74D0cAA7a6cE284b45c3a8b8098B9B
+2020-08-13 19:45:21.639|INFO|sync_monster_id|contract_data|monster_id=21,owner_address=0x7F22C17c1751A01C78d47Af2798F7f24E636c6D1,exp=0x7F22C17c1751A01C78d47Af2798F7f24E636c6D1
+2020-08-13 19:45:22.801|INFO|sync_monster_id|contract_data|monster_id=22,owner_address=0x9Cf28Be69D1c88ff7ECC1D2332577CB9671aBF70,exp=0x9Cf28Be69D1c88ff7ECC1D2332577CB9671aBF70
+2020-08-13 19:45:24.197|INFO|sync_monster_id|contract_data|monster_id=23,owner_address=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD,exp=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD
+2020-08-13 19:45:25.086|INFO|sync_monster_id|contract_data|monster_id=24,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:45:25.990|INFO|sync_monster_id|contract_data|monster_id=25,owner_address=0x0C2bBdD40855Df7Ed68b5EC999c8F8931645E477,exp=0x0C2bBdD40855Df7Ed68b5EC999c8F8931645E477
+2020-08-13 19:45:26.830|INFO|sync_monster_id|contract_data|monster_id=26,owner_address=0xbe07420e269F9a0dDa08316B4f703f831c5D49d8,exp=0xbe07420e269F9a0dDa08316B4f703f831c5D49d8
+2020-08-13 19:45:28.005|INFO|sync_monster_id|contract_data|monster_id=27,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:45:29.014|INFO|sync_monster_id|contract_data|monster_id=28,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:45:29.805|ERROR|update_ema_monster_fail|monster_id=29
+Traceback (most recent call last):
+  File "crawl_monster.py", line 86, in <module>
+    crawl_monster()
+  File "crawl_monster.py", line 48, in crawl_monster
+    logging.exception("update_ema_monster_fail|monster_id=%s", monster_id)
+  File "crawl_monster.py", line 42, in crawl_monster
+    result, add_flag, update_flag = _sync_monster_id(data_contract, monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/etheremon_service/crawl/../../etheremon_service/contract/helper.py", line 27, in _sync_monster_id
+    (monster_return_id, class_id, owner_address, exp, create_index, last_claim_index, monster_create_time) = data_contract.call().getMonsterObj(monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/contract.py", line 837, in call_contract_function
+    return_data = contract.web3.eth.call(call_transaction)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/eth.py", line 253, in call
+    [transaction, block_identifier],
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 93, in request_blocking
+    response = self._make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 76, in _make_request
+    return request_func(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/attrdict.py", line 20, in middleware
+    response = make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/formatting.py", line 23, in middleware
+    response = make_request(method, formatted_params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/providers/rpc.py", line 52, in make_request
+    **self.get_request_kwargs()
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/utils/compat/compat_requests.py", line 21, in make_post_request
+    response = session.post(endpoint_uri, data=data, *args, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 578, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 417, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1148, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib/python2.7/ssl.py", line 754, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 641, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+
+2020-08-13 19:46:11.156|INFO|sync_monster_id|contract_data|monster_id=1,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:46:12.457|INFO|sync_monster_id|contract_data|monster_id=2,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:46:14.056|INFO|sync_monster_id|contract_data|monster_id=3,owner_address=0xA694B9151ddaA05eFb50A635B585256aa382A0cf,exp=0xA694B9151ddaA05eFb50A635B585256aa382A0cf
+2020-08-13 19:46:15.069|INFO|sync_monster_id|contract_data|monster_id=4,owner_address=0x61BD8452ef478AF93c323e8fd135E6d73c19529A,exp=0x61BD8452ef478AF93c323e8fd135E6d73c19529A
+2020-08-13 19:46:16.297|INFO|sync_monster_id|contract_data|monster_id=5,owner_address=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1,exp=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1
+2020-08-13 19:46:17.087|INFO|sync_monster_id|contract_data|monster_id=6,owner_address=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681,exp=0x1f73AE5F280379da160f1575cedb8aBfE3Bb6681
+2020-08-13 19:46:18.212|INFO|sync_monster_id|contract_data|monster_id=7,owner_address=0x8CDd469e53e01d49b93A9DB22F0051c4FEdCCAE3,exp=0x8CDd469e53e01d49b93A9DB22F0051c4FEdCCAE3
+2020-08-13 19:46:19.070|INFO|sync_monster_id|contract_data|monster_id=8,owner_address=0xC065A07F9FE675D3a4B452A791e187bb4CEfAa43,exp=0xC065A07F9FE675D3a4B452A791e187bb4CEfAa43
+2020-08-13 19:46:20.057|INFO|sync_monster_id|contract_data|monster_id=9,owner_address=0xAb01D4895b802c38Eee7553bb52A4160CFca2878,exp=0xAb01D4895b802c38Eee7553bb52A4160CFca2878
+2020-08-13 19:46:21.092|INFO|sync_monster_id|contract_data|monster_id=10,owner_address=0x5baF94dC1E377f8A43c483a39918e86DdcC9A494,exp=0x5baF94dC1E377f8A43c483a39918e86DdcC9A494
+2020-08-13 19:46:22.441|INFO|sync_monster_id|contract_data|monster_id=11,owner_address=0xdf5BeEbf9B3B1817a4f3EA68809438b510120CF7,exp=0xdf5BeEbf9B3B1817a4f3EA68809438b510120CF7
+2020-08-13 19:46:23.405|INFO|sync_monster_id|contract_data|monster_id=12,owner_address=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268,exp=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268
+2020-08-13 19:46:24.286|INFO|sync_monster_id|contract_data|monster_id=13,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:46:25.390|INFO|sync_monster_id|contract_data|monster_id=14,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:46:26.411|INFO|sync_monster_id|contract_data|monster_id=15,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:46:27.225|INFO|sync_monster_id|contract_data|monster_id=16,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:46:28.190|INFO|sync_monster_id|contract_data|monster_id=17,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:46:29.409|INFO|sync_monster_id|contract_data|monster_id=18,owner_address=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3,exp=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3
+2020-08-13 19:46:30.318|INFO|sync_monster_id|contract_data|monster_id=19,owner_address=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3,exp=0xcb24BCEf28bB97E3A7E7C092aB14cA8eAe457aE3
+2020-08-13 19:46:31.382|INFO|sync_monster_id|contract_data|monster_id=20,owner_address=0xd3387cE9aD74D0cAA7a6cE284b45c3a8b8098B9B,exp=0xd3387cE9aD74D0cAA7a6cE284b45c3a8b8098B9B
+2020-08-13 19:46:32.431|INFO|sync_monster_id|contract_data|monster_id=21,owner_address=0x7F22C17c1751A01C78d47Af2798F7f24E636c6D1,exp=0x7F22C17c1751A01C78d47Af2798F7f24E636c6D1
+2020-08-13 19:46:33.566|INFO|sync_monster_id|contract_data|monster_id=22,owner_address=0x9Cf28Be69D1c88ff7ECC1D2332577CB9671aBF70,exp=0x9Cf28Be69D1c88ff7ECC1D2332577CB9671aBF70
+2020-08-13 19:46:34.741|INFO|sync_monster_id|contract_data|monster_id=23,owner_address=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD,exp=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD
+2020-08-13 19:46:35.743|INFO|sync_monster_id|contract_data|monster_id=24,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:46:36.578|INFO|sync_monster_id|contract_data|monster_id=25,owner_address=0x0C2bBdD40855Df7Ed68b5EC999c8F8931645E477,exp=0x0C2bBdD40855Df7Ed68b5EC999c8F8931645E477
+2020-08-13 19:46:37.410|INFO|sync_monster_id|contract_data|monster_id=26,owner_address=0xbe07420e269F9a0dDa08316B4f703f831c5D49d8,exp=0xbe07420e269F9a0dDa08316B4f703f831c5D49d8
+2020-08-13 19:46:38.208|INFO|sync_monster_id|contract_data|monster_id=27,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:39.007|INFO|sync_monster_id|contract_data|monster_id=28,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:40.206|INFO|sync_monster_id|contract_data|monster_id=29,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:41.257|INFO|sync_monster_id|contract_data|monster_id=30,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:42.217|INFO|sync_monster_id|contract_data|monster_id=31,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:43.492|INFO|sync_monster_id|contract_data|monster_id=32,owner_address=0x438aBB8Db93D6842DaD49dBD45C25EA3F9363C4c,exp=0x438aBB8Db93D6842DaD49dBD45C25EA3F9363C4c
+2020-08-13 19:46:44.467|INFO|sync_monster_id|contract_data|monster_id=33,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:45.461|INFO|sync_monster_id|contract_data|monster_id=34,owner_address=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1,exp=0x83ac654be75487B9CFcc80117cDFb4a4C70b68A1
+2020-08-13 19:46:46.440|INFO|sync_monster_id|contract_data|monster_id=35,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:47.334|INFO|sync_monster_id|contract_data|monster_id=36,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:48.490|INFO|sync_monster_id|contract_data|monster_id=37,owner_address=0xEE0aF58Aa552aa19aCfF0e7aA93711C17674BAA1,exp=0xEE0aF58Aa552aa19aCfF0e7aA93711C17674BAA1
+2020-08-13 19:46:49.818|INFO|sync_monster_id|contract_data|monster_id=38,owner_address=0xEE0aF58Aa552aa19aCfF0e7aA93711C17674BAA1,exp=0xEE0aF58Aa552aa19aCfF0e7aA93711C17674BAA1
+2020-08-13 19:46:50.599|INFO|sync_monster_id|contract_data|monster_id=39,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:51.827|INFO|sync_monster_id|contract_data|monster_id=40,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:46:52.850|INFO|sync_monster_id|contract_data|monster_id=41,owner_address=0x6EC85b83d60B0Ad3C2c2782c1Cd554671980D734,exp=0x6EC85b83d60B0Ad3C2c2782c1Cd554671980D734
+2020-08-13 19:46:53.816|INFO|sync_monster_id|contract_data|monster_id=42,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:46:54.639|INFO|sync_monster_id|contract_data|monster_id=43,owner_address=0xAb01D4895b802c38Eee7553bb52A4160CFca2878,exp=0xAb01D4895b802c38Eee7553bb52A4160CFca2878
+2020-08-13 19:46:55.437|INFO|sync_monster_id|contract_data|monster_id=44,owner_address=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD,exp=0x5AB5844Dd55Ab73212D1527e4CF72FEA884e39DD
+2020-08-13 19:46:56.270|INFO|sync_monster_id|contract_data|monster_id=45,owner_address=0x798fa50A44155dF9BF72b36bA22F5c2ace19fdfE,exp=0x798fa50A44155dF9BF72b36bA22F5c2ace19fdfE
+2020-08-13 19:46:57.305|INFO|sync_monster_id|contract_data|monster_id=46,owner_address=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841,exp=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841
+2020-08-13 19:46:58.300|INFO|sync_monster_id|contract_data|monster_id=47,owner_address=0xAb01D4895b802c38Eee7553bb52A4160CFca2878,exp=0xAb01D4895b802c38Eee7553bb52A4160CFca2878
+2020-08-13 19:47:00.419|INFO|sync_monster_id|contract_data|monster_id=48,owner_address=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841,exp=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841
+2020-08-13 19:47:02.117|INFO|sync_monster_id|contract_data|monster_id=49,owner_address=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE,exp=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE
+2020-08-13 19:47:03.327|INFO|sync_monster_id|contract_data|monster_id=50,owner_address=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE,exp=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE
+2020-08-13 19:47:04.121|INFO|sync_monster_id|contract_data|monster_id=51,owner_address=0x3f7Fa26cA24acC218000dD72216146d585577Df7,exp=0x3f7Fa26cA24acC218000dD72216146d585577Df7
+2020-08-13 19:47:04.931|INFO|sync_monster_id|contract_data|monster_id=52,owner_address=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE,exp=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE
+2020-08-13 19:47:05.838|INFO|sync_monster_id|contract_data|monster_id=53,owner_address=0xAb01D4895b802c38Eee7553bb52A4160CFca2878,exp=0xAb01D4895b802c38Eee7553bb52A4160CFca2878
+2020-08-13 19:47:06.610|INFO|sync_monster_id|contract_data|monster_id=54,owner_address=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841,exp=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841
+2020-08-13 19:47:07.647|INFO|sync_monster_id|contract_data|monster_id=55,owner_address=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE,exp=0xCE5F17718311Fd9CD7383fD1FDFf754Ff3b0e2fE
+2020-08-13 19:47:08.723|INFO|sync_monster_id|contract_data|monster_id=56,owner_address=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841,exp=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841
+2020-08-13 19:47:09.895|INFO|sync_monster_id|contract_data|monster_id=57,owner_address=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841,exp=0x212B4aD61f5Cb2f3925c68EC3125dB5ccBc53841
+2020-08-13 19:47:10.702|INFO|sync_monster_id|contract_data|monster_id=58,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:47:11.762|INFO|sync_monster_id|contract_data|monster_id=59,owner_address=0xC774ec9BaC7Cc0396c3b98a856B1FCe4082a6821,exp=0xC774ec9BaC7Cc0396c3b98a856B1FCe4082a6821
+2020-08-13 19:47:12.984|INFO|sync_monster_id|contract_data|monster_id=60,owner_address=0x53E9cdfEC8F40E7F21fD291Aa4DCca8c0e760750,exp=0x53E9cdfEC8F40E7F21fD291Aa4DCca8c0e760750
+2020-08-13 19:47:14.061|INFO|sync_monster_id|contract_data|monster_id=61,owner_address=0x98dDdccb07e114DC5793148DBcc52F480B770b1D,exp=0x98dDdccb07e114DC5793148DBcc52F480B770b1D
+2020-08-13 19:47:14.920|INFO|sync_monster_id|contract_data|monster_id=62,owner_address=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268,exp=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268
+2020-08-13 19:47:16.132|INFO|sync_monster_id|contract_data|monster_id=63,owner_address=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268,exp=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268
+2020-08-13 19:47:17.424|INFO|sync_monster_id|contract_data|monster_id=64,owner_address=0x0008d343091EF8BD3EFA730F6aAE5A26a285C7a2,exp=0x0008d343091EF8BD3EFA730F6aAE5A26a285C7a2
+2020-08-13 19:47:18.579|INFO|sync_monster_id|contract_data|monster_id=65,owner_address=0xdc6010028E65E4ebF021E20D1d87f1aA55338bA8,exp=0xdc6010028E65E4ebF021E20D1d87f1aA55338bA8
+2020-08-13 19:47:22.578|INFO|sync_monster_id|contract_data|monster_id=66,owner_address=0x0161C8d35f0B603c7552017fe9642523f70d7B6A,exp=0x0161C8d35f0B603c7552017fe9642523f70d7B6A
+2020-08-13 19:47:23.791|INFO|sync_monster_id|contract_data|monster_id=67,owner_address=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2,exp=0x700A2AE2e1ebbF33a38763ed9ab73fC0479552C2
+2020-08-13 19:47:24.899|INFO|sync_monster_id|contract_data|monster_id=68,owner_address=0x0008d343091EF8BD3EFA730F6aAE5A26a285C7a2,exp=0x0008d343091EF8BD3EFA730F6aAE5A26a285C7a2
+2020-08-13 19:47:25.843|INFO|sync_monster_id|contract_data|monster_id=69,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:26.811|INFO|sync_monster_id|contract_data|monster_id=70,owner_address=0xdea60bE04c569a2B5F398b79F175e2771F6DC475,exp=0xdea60bE04c569a2B5F398b79F175e2771F6DC475
+2020-08-13 19:47:27.650|INFO|sync_monster_id|contract_data|monster_id=71,owner_address=0x4ce15B37851a4448a28899062906a02E51DEE267,exp=0x4ce15B37851a4448a28899062906a02E51DEE267
+2020-08-13 19:47:28.455|INFO|sync_monster_id|contract_data|monster_id=72,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:47:29.960|INFO|sync_monster_id|contract_data|monster_id=73,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:32.451|INFO|sync_monster_id|contract_data|monster_id=74,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:33.534|INFO|sync_monster_id|contract_data|monster_id=75,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:47:34.374|INFO|sync_monster_id|contract_data|monster_id=76,owner_address=0xdea60bE04c569a2B5F398b79F175e2771F6DC475,exp=0xdea60bE04c569a2B5F398b79F175e2771F6DC475
+2020-08-13 19:47:35.577|INFO|sync_monster_id|contract_data|monster_id=77,owner_address=0xdea60bE04c569a2B5F398b79F175e2771F6DC475,exp=0xdea60bE04c569a2B5F398b79F175e2771F6DC475
+2020-08-13 19:47:36.345|INFO|sync_monster_id|contract_data|monster_id=78,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:47:37.597|INFO|sync_monster_id|contract_data|monster_id=79,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:38.534|INFO|sync_monster_id|contract_data|monster_id=80,owner_address=0xdea60bE04c569a2B5F398b79F175e2771F6DC475,exp=0xdea60bE04c569a2B5F398b79F175e2771F6DC475
+2020-08-13 19:47:39.815|INFO|sync_monster_id|contract_data|monster_id=81,owner_address=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268,exp=0x5d305f72dd6E35D2e61c37d67A6ba09cFC73f268
+2020-08-13 19:47:40.702|INFO|sync_monster_id|contract_data|monster_id=82,owner_address=0x0000000000000000000000000000000000000000,exp=0x0000000000000000000000000000000000000000
+2020-08-13 19:47:41.742|INFO|sync_monster_id|contract_data|monster_id=83,owner_address=0xdea60bE04c569a2B5F398b79F175e2771F6DC475,exp=0xdea60bE04c569a2B5F398b79F175e2771F6DC475
+2020-08-13 19:47:42.742|INFO|sync_monster_id|contract_data|monster_id=84,owner_address=0xca5cFbab056D714DC2214C56B9861984E47f5F2d,exp=0xca5cFbab056D714DC2214C56B9861984E47f5F2d
+2020-08-13 19:47:43.665|INFO|sync_monster_id|contract_data|monster_id=85,owner_address=0x219D56F04eb1d15422D0eF307946B90cb479fAEE,exp=0x219D56F04eb1d15422D0eF307946B90cb479fAEE
+2020-08-13 19:47:44.626|INFO|sync_monster_id|contract_data|monster_id=86,owner_address=0x5777EE98B874Bb1a9e59c932fc14BF564d2Fe1A5,exp=0x5777EE98B874Bb1a9e59c932fc14BF564d2Fe1A5
+2020-08-13 19:47:45.908|INFO|sync_monster_id|contract_data|monster_id=87,owner_address=0xA694B9151ddaA05eFb50A635B585256aa382A0cf,exp=0xA694B9151ddaA05eFb50A635B585256aa382A0cf
+2020-08-13 19:47:46.975|INFO|sync_monster_id|contract_data|monster_id=88,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:48.137|INFO|sync_monster_id|contract_data|monster_id=89,owner_address=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e,exp=0xC0FfEE9f395D72CE06F76Da710E1459A2452184e
+2020-08-13 19:47:48.921|INFO|sync_monster_id|contract_data|monster_id=90,owner_address=0x1D428e4d7b36b4d114DB519982E77d3Fe3371632,exp=0x1D428e4d7b36b4d114DB519982E77d3Fe3371632
+2020-08-13 19:47:50.057|INFO|sync_monster_id|contract_data|monster_id=91,owner_address=0x689A70b28C29bE1AA08DAECB89ad2d2B4dd1ff8f,exp=0x689A70b28C29bE1AA08DAECB89ad2d2B4dd1ff8f
+2020-08-13 19:47:51.666|INFO|sync_monster_id|contract_data|monster_id=92,owner_address=0xBd2850932c30159EaBe0c91495f72a4A7A2bCc7C,exp=0xBd2850932c30159EaBe0c91495f72a4A7A2bCc7C
+2020-08-13 19:47:52.614|INFO|sync_monster_id|contract_data|monster_id=93,owner_address=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477,exp=0x3faFb6815eD498d7eD09eaDa99BbCa1c3207e477
+2020-08-13 19:47:53.570|INFO|sync_monster_id|contract_data|monster_id=94,owner_address=0xA670ff1F422aF006098100Cf042300BCd2a795FE,exp=0xA670ff1F422aF006098100Cf042300BCd2a795FE
+2020-08-13 19:47:54.853|INFO|sync_monster_id|contract_data|monster_id=95,owner_address=0x0634e3E6fee05b9a8f5AaE4C78EC30B763854420,exp=0x0634e3E6fee05b9a8f5AaE4C78EC30B763854420
+2020-08-13 19:47:55.820|INFO|sync_monster_id|contract_data|monster_id=96,owner_address=0xC617f7F0009c7DD0A8cbD83E0439a356919D6270,exp=0xC617f7F0009c7DD0A8cbD83E0439a356919D6270
+2020-08-13 19:47:56.776|INFO|sync_monster_id|contract_data|monster_id=97,owner_address=0x1D428e4d7b36b4d114DB519982E77d3Fe3371632,exp=0x1D428e4d7b36b4d114DB519982E77d3Fe3371632
+2020-08-13 19:47:57.493|ERROR|update_ema_monster_fail|monster_id=98
+Traceback (most recent call last):
+  File "crawl_monster.py", line 85, in <module>
+    crawl_monster()
+  File "crawl_monster.py", line 48, in crawl_monster
+    logging.exception("update_ema_monster_fail|monster_id=%s", monster_id)
+  File "crawl_monster.py", line 42, in crawl_monster
+    result, add_flag, update_flag = _sync_monster_id(data_contract, monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/etheremon_service/crawl/../../etheremon_service/contract/helper.py", line 27, in _sync_monster_id
+    (monster_return_id, class_id, owner_address, exp, create_index, last_claim_index, monster_create_time) = data_contract.call().getMonsterObj(monster_id)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/contract.py", line 837, in call_contract_function
+    return_data = contract.web3.eth.call(call_transaction)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/eth.py", line 253, in call
+    [transaction, block_identifier],
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 93, in request_blocking
+    response = self._make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/manager.py", line 76, in _make_request
+    return request_func(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/attrdict.py", line 20, in middleware
+    response = make_request(method, params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/middleware/formatting.py", line 23, in middleware
+    response = make_request(method, formatted_params)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/providers/rpc.py", line 52, in make_request
+    **self.get_request_kwargs()
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/web3/utils/compat/compat_requests.py", line 21, in make_post_request
+    response = session.post(endpoint_uri, data=data, *args, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 578, in post
+    return self.request('POST', url, data=data, json=json, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/aayushpy/Desktop/ethermon-backend/emenv/lib/python2.7/site-packages/urllib3/connectionpool.py", line 417, in _make_request
+    httplib_response = conn.getresponse(buffering=True)
+  File "/usr/lib/python2.7/httplib.py", line 1148, in getresponse
+    response.begin()
+  File "/usr/lib/python2.7/httplib.py", line 448, in begin
+    version, status, reason = self._read_status()
+  File "/usr/lib/python2.7/httplib.py", line 404, in _read_status
+    line = self.fp.readline(_MAXLINE + 1)
+  File "/usr/lib/python2.7/socket.py", line 480, in readline
+    data = self._sock.recv(self._rbufsize)
+  File "/usr/lib/python2.7/ssl.py", line 754, in recv
+    return self.read(buflen)
+  File "/usr/lib/python2.7/ssl.py", line 641, in read
+    v = self._sslobj.read(len)
+KeyboardInterrupt
+
